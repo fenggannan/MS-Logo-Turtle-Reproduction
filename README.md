@@ -1,20 +1,20 @@
-# Microsoft Logo — Turtle Reproduction
+# MS Logo — Turtle Reproduction
 
-用 Python `turtle` 库手写复刻的微软 2012 版四色 Logo。
+用 Python `turtle` 库手写复刻的四色方块 Logo（2012 版风格）。
 
 ## 宇宙超级声明（务必先读）
 
 - 这是一个**个人学习项目**，作者是一名五年级编程爱好者。
-- **"Microsoft" 名称、四色方块 Logo 的著作权与商标权，全部归微软公司（Microsoft Corporation）所有。**
-- 本项目**不是**微软官方项目，与微软公司**没有任何隶属、授权、代言或合作关系**。
+- **"MS" 名称及四色方块 Logo 的著作权与商标权，全部归微软公司（Microsoft Corporation）所有。**
+- 本项目**不是**任何公司的官方项目，与该公司**没有任何隶属、授权、代言或合作关系**。
 - 代码仅用于学习 turtle 图形编程，**不得用于任何商业用途**，不得将该 Logo 用于任何可能引起公众混淆的场合。
-- 如果微软公司认为本项目需要调整、替换名称或下架，作者将立即配合处理。
+- 如果商标方认为本项目需要调整、替换名称或下架，作者将立即配合处理。
 
 ## 运行方法
 
 1. 安装 Python 3（勾选 Add to PATH）。
 2. 双击 `weiruan.pyw`。
-3. 程序会自动画出居中的微软 Logo。
+3. 程序会自动画出居中的四色 Logo。
 
 > Windows 上需要安装 Segoe UI Semibold 字体（系统自带），否则文字会回退到默认字体。
 
